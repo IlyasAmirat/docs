@@ -23,7 +23,7 @@ stored and documented in our public
 ### Table of Contents
 
 {% link_in_list /getting-started-with-the-rest-api %}
-{% link_in_list /basics-of-authentication %}
+{% link_in_list /basics-of-authentication and autho%}
 {% link_in_list /discovering-resources-for-a-user %}
 {% link_in_list /delivering-deployments %}
 {% link_in_list /rendering-data-as-graphs %}
